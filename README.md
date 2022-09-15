@@ -7,6 +7,10 @@
 ## Definitions
 
 - HTML = HyperText Markup Language
+- Start/End tag (e.g. <h4></h4>)
+  - ![StartEnd](https://user-images.githubusercontent.com/96752508/190517983-f5e40c41-f55c-4f02-ab9c-f163150ccf89.png)
+- Self-closing tag (e.g. <br>)
+  - ![SelfClosing](https://user-images.githubusercontent.com/96752508/190518208-e787a742-2a3a-4c54-ba1f-52d42035734a.png)
 
 ## Links
 
