@@ -13,6 +13,7 @@
   - ![SelfClosing](https://user-images.githubusercontent.com/96752508/190518208-e787a742-2a3a-4c54-ba1f-52d42035734a.png)
 - index.html - Naming convention for "homepage"
 - meta tag, represents the metadata taht cannot be represented by other HTML meta-related elements.
+- p tag aka The Paragraph element, groups text, images, form fields, etc together in blocks.
 
 ## Links
 
