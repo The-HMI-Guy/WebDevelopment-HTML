@@ -14,6 +14,9 @@
 - index.html - Naming convention for "homepage"
 - meta tag, represents the metadata taht cannot be represented by other HTML meta-related elements.
 - p tag aka The Paragraph element, groups text, images, form fields, etc together in blocks.
+- Unordered List Element
+  ul or ol (ordered list) tag with li tag
+  - ![List](https://user-images.githubusercontent.com/96752508/191955772-9e9bcf25-8bc0-4377-b296-bd39b6f36132.png)
 
 ## Links
 
