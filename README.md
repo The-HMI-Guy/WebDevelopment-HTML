@@ -8,9 +8,9 @@
 
 - HTML = HyperText Markup Language
 - Start/End tag (e.g. h4)
-  - ![StartEnd](https://user-images.githubusercontent.com/96752508/190517983-f5e40c41-f55c-4f02-ab9c-f163150ccf89.png)
+  - ![StartEnd](https://user-images.githubusercontent.com/96752508/191956996-38e32f24-5885-433e-8b9f-96b39dea8241.png)
 - Self-closing tag (e.g. br)
-  - ![SelfClosing](https://user-images.githubusercontent.com/96752508/190518208-e787a742-2a3a-4c54-ba1f-52d42035734a.png)
+  - ![SelfClosing](https://user-images.githubusercontent.com/96752508/191956902-9ff179ec-f865-4fcc-91bd-227ceaf8e291.png)
 - index.html - Naming convention for "homepage"
 - Metadata Element
   - meta tag, represents the metadata that cannot be represented by other HTML meta-related elements.
