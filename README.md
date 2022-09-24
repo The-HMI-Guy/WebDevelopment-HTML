@@ -28,3 +28,4 @@
 - https://devdocs.io
 - https://web.archive.org/web/20011101000000*/www.google.com
 - https://photobucket.com
+- https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
