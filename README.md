@@ -27,3 +27,4 @@
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 - https://devdocs.io
 - https://web.archive.org/web/20011101000000*/www.google.com
+- https://photobucket.com
