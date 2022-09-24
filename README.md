@@ -20,6 +20,9 @@
 - Unordered List Element
   - ul or ol (ordered list) tag with li tag
   - ![List](https://user-images.githubusercontent.com/96752508/191955772-9e9bcf25-8bc0-4377-b296-bd39b6f36132.png)
+- Anchor Element
+  - Using the href attribute, a hyperlink to a web page, file, email adress, or anything else a URL can address will be linked to the text.
+  - ![Anchor](https://user-images.githubusercontent.com/96752508/192105635-26f04846-37df-4e91-8a86-d2c2d9e85ca3.png)
 
 ## Links
 
